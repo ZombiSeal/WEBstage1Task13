@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29",
+      "ext-gmp": "*"
+    },
+    "autoload": {
+        "classmap": ["classes"]
+    }
+
+
+}
